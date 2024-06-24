@@ -4,3 +4,4 @@ class IVehicleStorage(ABC):
     @abstractmethod
     def SaveVehicleData(self, vehicle):
         pass
+
